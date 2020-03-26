@@ -74,7 +74,7 @@ mc.block_until_active()
 mc.pause()
 
 # volume up
-time.sleep(1)
+time.sleep(0.5)
 ghome.set_volume(volume)
 time.sleep(1)
 
